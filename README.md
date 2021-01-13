@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on developing predictive analytics models for public health systems @ Dimagi
 - 🌱 I’m currently learning graph neural networks and sql 
-- 👯 I’m looking to collaborate on interdisciplinary applications of deep learning 
 - 🤔 I’m looking for help with graph neural networks and game theory applications in NLP
 - 💬 Ask me about Brooklyn Nine-Nine and Alec Benjamin
 - 📫 How to reach me: asuvarna31@gmail.com
